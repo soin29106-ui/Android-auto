@@ -14,7 +14,7 @@
     <string name="wind_speed">Tốc độ gió: %.1f m/s</string>
     <string name="pressure">Áp suất: %d hPa</string>
     <string name="visibility">Tầm nhìn: %.1f km</string>
-    <string name="sunrise">Bsunrise: %s</string>
+    <string name="sunrise">Sunrise: %s</string>
     <string name="sunset">Sunset: %s</string>
 
     <!-- Status Messages -->
